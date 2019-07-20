@@ -5,4 +5,5 @@
 **[2]**   知乎专栏，前几章有介绍样本对抗攻防的基础的 [link](https://zhuanlan.zhihu.com/c_170476465) 
 
 **[3]**   pytorch官方文档----60分钟入门  [link](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
+
 **[4]**   样本对抗的来龙去脉和本质  [link](http://baijiahao.baidu.com/s?id=1596201339578975526&wfr=spider&for=pc) 
