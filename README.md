@@ -7,3 +7,6 @@
 **[3]**   pytorch官方文档----60分钟入门  [link](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
 
 **[4]**   样本对抗的来龙去脉和本质  [link](http://baijiahao.baidu.com/s?id=1596201339578975526&wfr=spider&for=pc) 
+
+**[5]**   样本对抗的一个相关比赛  [link](https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281957.1004.2.38b04c2aac5bGR) 
+
