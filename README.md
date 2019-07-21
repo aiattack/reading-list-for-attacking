@@ -10,3 +10,5 @@
 
 **[5]**   样本对抗的一个相关比赛  [link](https://tianchi.aliyun.com/competition/entrance/231701/introduction?spm=5176.12281957.1004.2.38b04c2aac5bGR) 
 
+**[6]**   Awesome ML Attack  [link](https://github.com/yenchenlin/awesome-adversarial-machine-learning) 
+
