@@ -12,3 +12,5 @@
 
 **[6]**   Awesome ML Attack  [link](https://github.com/yenchenlin/awesome-adversarial-machine-learning) 
 
+**[7]**   简单易懂的人脸识别过程和原理介绍 [link](https://blog.csdn.net/LEON1741/article/details/81358974) 
+
