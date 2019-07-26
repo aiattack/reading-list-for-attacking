@@ -20,4 +20,4 @@
 
 **[2]** PyTorch C&W Attack [link](https://github.com/rwightman/pytorch-nips2017-attack-example)
 
-**[3]** PyTorch C&W Attack [link](https://github.com/jeromerony/fast_adversarial)
+**[3]** PyTorch DNN Attack(CVPR2019) [link](https://github.com/jeromerony/fast_adversarial)
