@@ -19,3 +19,5 @@
 **[1]** PyTorch FGSM Tutorial [link](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html)
 
 **[2]** PyTorch C&W Attack [link](https://github.com/rwightman/pytorch-nips2017-attack-example)
+
+**[3]** PyTorch C&W Attack [link](https://github.com/jeromerony/fast_adversarial)
