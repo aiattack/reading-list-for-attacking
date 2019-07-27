@@ -25,3 +25,8 @@
 # Face Recognition
 
 **[1]** Loss Function for training Face Recognition Model [link](https://zhuanlan.zhihu.com/p/34404607)
+
+# Neural network backdoor
+**[1]** Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks [link](http://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)   翻译 [link](https://blog.csdn.net/qq_38232598/article/details/89244310)
+
+**[2]** Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning [link](https://arxiv.org/pdf/1712.05526.pdf)
