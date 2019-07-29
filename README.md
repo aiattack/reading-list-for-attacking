@@ -16,6 +16,8 @@
 
 **[8]**   一种鲁棒的神经网络架构(防御) [link](https://arxiv.org/abs/1802.07896)
 
+**[9]**   对抗训练论文一(防御) [link](https://arxiv.org/abs/1805.04807)
+
 
 # Open Source about ADVERSARIAL EXAMPLE GENERATION
 
