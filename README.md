@@ -14,6 +14,9 @@
 
 **[7]**   简单易懂的人脸识别过程和原理介绍 [link](https://blog.csdn.net/LEON1741/article/details/81358974) 
 
+**[8]**   一种鲁棒的神经网络架构(防御) [link](https://arxiv.org/abs/1802.07896)
+
+
 # Open Source about ADVERSARIAL EXAMPLE GENERATION
 
 **[1]** PyTorch FGSM Tutorial [link](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html)
