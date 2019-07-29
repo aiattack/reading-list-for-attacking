@@ -31,6 +31,12 @@
 
 **[1]** Loss Function for training Face Recognition Model [link](https://zhuanlan.zhihu.com/p/34404607)
 
+**[2]** Face Recognition Model: ZhaoJ9014/face.evoLVe.PyTorch （默认白盒模型） [link](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)
+
+**[3]** Face Recognition Model: ageitgey/face_recognition （第一次老师给的白盒模型） [link](https://github.com/ageitgey/face_recognition)
+
+
+
 # Neural network backdoor
 **[1]** Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks [link](http://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)   翻译 [link](https://blog.csdn.net/qq_38232598/article/details/89244310)
 
