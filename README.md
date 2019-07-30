@@ -38,6 +38,9 @@
 
 
 # Neural network backdoor
+
+**[0]**  浙大的一篇调研 [link](https://nesa.zju.edu.cn/download/%E9%9D%A2%E5%90%91%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AF%B9%E6%8A%97%E6%A0%B7%E6%9C%AC%E6%94%BB%E5%87%BB%E4%B8%8E%E9%98%B2%E5%BE%A1by%E5%87%8C%E7%A5%A5%E7%AD%89.pdf)
+
 **[1]** Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks. [link](http://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)   翻译 [link](https://blog.csdn.net/qq_38232598/article/details/89244310)
 
 **[2]** Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning. [link](https://arxiv.org/pdf/1712.05526.pdf)
