@@ -44,3 +44,6 @@
 
 **[3]** A General Framework for Adversarial Examples with Objectives. [link](https://arxiv.org/pdf/1801.00349.pdf)  机器之心的解读[link](https://www.jiqizhixin.com/articles/2018-01-08-5)
 
+**[4]** Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition. [link](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf)   源码[link](https://github.com/mahmoods01/accessorize-to-a-crime)
+
+
