@@ -63,3 +63,5 @@
 **[3]** Delving into Transferable Adversarial Examples and Black-box Attacks [link](https://arxiv.org/pdf/1611.02770.pdf)
 
 **[4]** Ensemble Adversarial Training Attacks and Defenses [link](https://arxiv.org/pdf/1705.07204.pdf)
+
+**[5]** Curls & Whey: Boosting Black-Box Adversarial Attacks(CVPR2019 oral)  主要解决对抗样本的多样性(两种梯度迭代方式)，二分法减小噪声的方差 [link](https://arxiv.org/pdf/1904.01160.pdf)    知乎讲解[link](https://zhuanlan.zhihu.com/p/62917691)
