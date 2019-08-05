@@ -54,7 +54,7 @@
 **[5]** Robust Physical-World Attacks on Deep Learning Visual Classification.(对路牌攻击CVPR2018) [link](https://arxiv.org/pdf/1707.08945.pdf)
 
 # Black-box Attacks  
-**[0]** ZOO: Zeroth Order Optimization based Black-box Attacks to Deep Neural Networks without Training Substitute Models 没有使用替代模型，用零阶梯度替代一阶 [link](https://arxiv.org/pdf/1708.03999.pdf)  
+**[0]** ZOO: Zeroth Order Optimization based Black-box Attacks to Deep Neural Networks without Training Substitute Models 没有使用替代模型，用零阶替代一阶 [link](https://arxiv.org/pdf/1708.03999.pdf)  
 
 **[1]** AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks 　ZOO模型的优化，提高对抗样本的生成效率　[link](https://arxiv.org/pdf/1805.11770.pdf)  
 
