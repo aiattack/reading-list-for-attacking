@@ -54,14 +54,14 @@
 **[5]** Robust Physical-World Attacks on Deep Learning Visual Classification.(对路牌攻击CVPR2018) [link](https://arxiv.org/pdf/1707.08945.pdf)
 
 # Black-box Attacks  
-**[0]** ZOO: Zeroth Order Optimization based Black-box Attacks to Deep Neural Networks without Training Substitute Models [link](https://arxiv.org/pdf/1708.03999.pdf)  
+**[0]** ZOO: Zeroth Order Optimization based Black-box Attacks to Deep Neural Networks without Training Substitute Models 没有使用替代模型，用零阶梯度替代一阶 [link](https://arxiv.org/pdf/1708.03999.pdf)  
 
-**[1]** AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks [link](https://arxiv.org/pdf/1805.11770.pdf)  
+**[1]** AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks 　ZOO模型的优化，提高对抗样本的生成效率　[link](https://arxiv.org/pdf/1805.11770.pdf)  
 
-**[2]** Query-limited Black-box Attacks to Classifiers [link](https://arxiv.org/pdf/1712.08713.pdf)  
+**[2]** Delving into Transferable Adversarial Examples and Black-box Attacks  采用集成的方式，用了替代模型求解梯度 [link](https://arxiv.org/pdf/1611.02770.pdf)
 
-**[3]** Delving into Transferable Adversarial Examples and Black-box Attacks [link](https://arxiv.org/pdf/1611.02770.pdf)
+**[3]** Ensemble Adversarial Training Attacks and Defenses [link](https://arxiv.org/pdf/1705.07204.pdf)
 
-**[4]** Ensemble Adversarial Training Attacks and Defenses [link](https://arxiv.org/pdf/1705.07204.pdf)
+**[4]** Curls & Whey: Boosting Black-Box Adversarial Attacks(CVPR2019 oral)  主要解决对抗样本的多样性(两种梯度迭代方式)，二分法减小噪声的方差 [link](https://arxiv.org/pdf/1904.01160.pdf)    知乎讲解[link](https://zhuanlan.zhihu.com/p/62917691)
 
-**[5]** Curls & Whey: Boosting Black-Box Adversarial Attacks(CVPR2019 oral)  主要解决对抗样本的多样性(两种梯度迭代方式)，二分法减小噪声的方差 [link](https://arxiv.org/pdf/1904.01160.pdf)    知乎讲解[link](https://zhuanlan.zhihu.com/p/62917691)
+**[5]** Black-box Adversarial Attacks with Limited Queries and Information 利用演化算法来攻击　[link](https://arxiv.org/pdf/1804.08598.pdf) github源码 (https://github.com/labsix/limited-blackbox-attacks)
