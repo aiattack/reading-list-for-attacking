@@ -65,3 +65,5 @@
 **[4]** Curls & Whey: Boosting Black-Box Adversarial Attacks(CVPR2019 oral)  主要解决对抗样本的多样性(两种梯度迭代方式)，二分法减小噪声的方差 [link](https://arxiv.org/pdf/1904.01160.pdf)    知乎讲解[link](https://zhuanlan.zhihu.com/p/62917691) GitHub[link](https://github.com/walegahaha/Curls-Whey) 
 
 **[5]** Black-box Adversarial Attacks with Limited Queries and Information 利用演化算法来攻击　[link](https://arxiv.org/pdf/1804.08598.pdf) github源码 (https://github.com/labsix/limited-blackbox-attacks)
+
+**[6]** SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing 通过人脸编辑来做人脸数据集上的对抗样本　[link](https://arxiv.org/pdf/1906.07927.pdf)
